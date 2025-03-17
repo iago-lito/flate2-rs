@@ -1,3 +1,5 @@
+/!\ Temporary fork to work around https://github.com/rust-lang/flate2-rs/discussions/479 /!\
+
 # flate2
 
 [![Crates.io](https://img.shields.io/crates/v/flate2.svg?maxAge=2592000)](https://crates.io/crates/flate2)
